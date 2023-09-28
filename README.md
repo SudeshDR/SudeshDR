@@ -75,6 +75,4 @@ I am a Web Developer and Programmer <img src="https://media.giphy.com/media/WUlp
 ---
 
 
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
