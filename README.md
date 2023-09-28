@@ -8,7 +8,7 @@
   <a href="https://www.youtube.com/@sudeshrajbhar/featured">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href=" https://www.freelancer.in/u/sudeshdr03">
+  <a href="https://www.freelancer.in/u/sudeshdr03">
     <img src="https://img.shields.io/badge/Freelancer-blue?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer Badge"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100087679874573">
